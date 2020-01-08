@@ -4,4 +4,5 @@ Test git under vim
 
 *first Check in**
 
+commit from vim.
 

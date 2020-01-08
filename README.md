@@ -6,3 +6,5 @@ Test git under vim
 
 commit from vim.
 
+Modified from branch
+
